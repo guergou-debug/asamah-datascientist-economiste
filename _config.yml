@@ -6,14 +6,14 @@ name                     : "GUERGOU GAGARA Abdoul-Samah"
 description              : "Élève Ingénieur en Économie Appliquée, Statistique & Big Data"
 url                      : "https://guergou-debug.github.io"
 baseurl                  : "/asamah-datascientist-economiste"
-repository               : "guergou-debug/Guergou-Economiste-Chercheur"
+repository               : "guergou-debug/asamah-datascientist-economiste"
 
 # Site Author
 author:
   name                   : "Abdoul-Samah GUERGOU GAGARA"
   avatar                 : "/assets/images/avatar.png"
   bio                    : "Élève Ingénieur | Économie Appliquée, Statistique & Big Data @ INSEA"
-  location               : "Rabat, Maroc"
+  location               : ""
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
