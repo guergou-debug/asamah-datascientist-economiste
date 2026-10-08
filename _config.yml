@@ -1,16 +1,16 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Abdoul-Samah - Économiste & Data Scientist"
+title                    : "Abdoul-Samah - Data Scientist & Économiste"
 name                     : "GUERGOU GAGARA Abdoul-Samah"
 description              : "Élève Ingénieur en Économie Appliquée, Statistique & Big Data"
 url                      : "https://guergou-debug.github.io"
-baseurl                  : "/Guergou-Economiste-Chercheur"
+baseurl                  : "/asamah-datascientist-economiste"
 repository               : "guergou-debug/Guergou-Economiste-Chercheur"
 
 # Site Author
 author:
-  name                   : "GUERGOU GAGARA Abdoul-Samah"
+  name                   : "Abdoul-Samah GUERGOU GAGARA"
   avatar                 : "/assets/images/avatar.png"
   bio                    : "Élève Ingénieur | Économie Appliquée, Statistique & Big Data @ INSEA"
   location               : "Rabat, Maroc"
