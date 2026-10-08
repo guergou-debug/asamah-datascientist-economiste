@@ -15,7 +15,7 @@ excerpt: " "
 ---
 
 <div style="text-align: center; margin-top: -10px;">
-  <h1 style="font-size: 3em; color: #00008b;">GUERGOU GAGARA Abdoul-Samah</h1>
+  <h1 style="font-size: 3em; color: #00008b;">Abdoul-Samah GUERGOU GAGARA </h1>
   <p style="font-size: 1.5em; color: #00008b;">Élève Ingénieur en fin de formation en Économie Appliquée, Statistique & Big Data (INSEA)</p>
 </div>
 
