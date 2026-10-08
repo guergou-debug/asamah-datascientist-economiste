@@ -26,7 +26,7 @@ excerpt: " "
     <h2 style="color: #00008b; margin: 0; font-size: 1.8em;">👤 À propos de moi</h2>
 
     <p style="font-size: 1.1em; line-height: 1.6; color: #222; text-align: justify;">
-      Élève ingénieur à l'INSEA, je me spécialise dans l'analyse quantitative des enjeux économiques, sociaux et environnementaux du développement. Ma formation associe <strong>économie appliquée</strong>, <strong>statistique</strong>, <strong>économétrie</strong> et <strong>science des données</strong>, avec une attention particulière portée à leur mobilisation pour comprendre les dynamiques économiques et éclairer la décision publique.
+      Élève ingénieur à l'INSEA, je me spécialise dans l'analyse quantitative des enjeux économiques, sociaux et environnementaux du développement. Ma formation associe <strong>économie appliquée</strong>, <strong>statistique</strong>, <strong>économétrie</strong> et <strong>science des données</strong>, avec une attention particulière portée à leur mobilisation pour comprendre les dynamiques économiques et éclairer la prise de décision.
     </p>
 
     <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #007BFF20; margin: 5px 0;">
@@ -36,14 +36,14 @@ excerpt: " "
       </p>
     </div>
 
-    <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #28A74520; margin: 5px 0;">
+   <!-- <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #28A74520; margin: 5px 0;">
       <h3 style="color: #28A745; margin: 0 0 10px 0;">🏅 Certifications</h3>
       <p style="font-size: 1.05em; line-height: 1.8; color: #222; text-align: justify; margin: 0;">
         Je suis certifié par l'<strong>African Research Center (ARC)</strong> à l'issue d'une école d'été consacrée aux <strong>énergies renouvelables et à l'agro-innovation</strong>, ainsi que par <strong>Deloitte en Data Analytics</strong>. Je poursuis également une spécialisation en <strong>Machine Learning</strong> afin de renforcer mes capacités en modélisation prédictive et en analyse avancée des données.
       </p>
-    </div>
+    </div> -->
 
-    <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 5px 0 0 0;">
+<!--    <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 5px 0 0 0;">
       À terme, je souhaite contribuer à une recherche appliquée capable de transformer les données en <strong>évidence empirique utile à la décision</strong>, notamment sur les enjeux de développement, de transformation économique, de résilience climatique et d'efficacité des politiques publiques en Afrique.
     </p>
 
@@ -51,7 +51,7 @@ excerpt: " "
       “Transformer les données en évidence pour mieux comprendre, anticiper et décider.”
     </div>
 
-  </div>
+  </div> -->
 
 </div>
 
@@ -59,6 +59,14 @@ excerpt: " "
 <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; margin: 30px 0;">
   <h2 style="color: #00008b; text-align: center; font-size: 1.8em;">🎯 Intérêts de Recherche</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin-top: 20px;">
+    <div style="background: #fdf0f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #DC3545;">
+      <strong>🤖 Machine Learning & modélisation prédictive</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Prévision, classification et détection de phénomènes économiques, sociaux et environnementaux</p>
+    </div>
+    <div style="background: #f4f0f8; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #6F42C1;">
+      <strong>📊 Économétrie, statistique & Big Data</strong>
+      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Modélisation économique, séries temporelles, analyse multivariée et exploitation de données massives</p>
+    </div>
     <div style="background: #f0f8ff; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #007BFF;">
       <strong>🌍 Économie du développement & transformation structurelle</strong>
       <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Pauvreté, inégalités, capital humain, emploi et dynamiques de développement en Afrique</p>
@@ -70,14 +78,6 @@ excerpt: " "
     <div style="background: #fdf4f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #FD7E14;">
       <strong>📈 Politiques publiques & évaluation d'impact</strong>
       <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Évaluation quantitative, méthodes causales et analyse empirique des politiques de développement</p>
-    </div>
-    <div style="background: #fdf0f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #DC3545;">
-      <strong>🤖 Machine Learning & modélisation prédictive</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Prévision, classification et détection de phénomènes économiques, sociaux et environnementaux</p>
-    </div>
-    <div style="background: #f4f0f8; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #6F42C1;">
-      <strong>📊 Économétrie, statistique & Big Data</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Modélisation économique, séries temporelles, analyse multivariée et exploitation de données massives</p>
     </div>
     <div style="background: #f0faf4; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #20C997;">
       <strong>🛰️ Télédétection, SIG & analyse spatiale</strong>
