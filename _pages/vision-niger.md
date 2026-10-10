@@ -15,7 +15,7 @@ header:
 
 ## 🎓 A propos de moi 
 
-Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat** avec la **Mention Très Bien** et le **Prix d'Excellence du Niger** en 2022.
+Je suis **Abdoul-Samah GUERGOU GAGARA**, ancien élève de la **Série D** au **Lycée d'Excellence de Niamey**, où j'ai obtenu mon **Baccalauréat** avec la **Mention Très Bien** et le **Prix d'Excellence**.
 
 Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT)** pour les élèves de **Terminale D** pour le compte de la plateforme éducative nigérienne Tarbiyya Online :
 
@@ -44,9 +44,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Introduction à la notion d'information génétique, son rôle et sa localisation dans la cellule.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-1.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-1.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-1.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-1.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-1.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-1.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -60,9 +60,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La molécule d'ADN : structure, composition chimique et organisation dans le noyau.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-1.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-1.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-1.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-1.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-1.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-1.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -84,9 +84,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La mitose : mécanismes de division cellulaire assurant la transmission conforme du patrimoine génétique.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-2.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-2.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-2.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-2.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-2.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-2.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -100,9 +100,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Étude du cycle cellulaire et des variations de la quantité d'ADN au cours des différentes phases.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-2.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-2.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-2.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-2.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-2.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-2.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -124,9 +124,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Structure, classification et fonctions des protéines dans l'organisme.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-3.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-3.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-3.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-3.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-3.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-3.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -140,9 +140,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La synthèse des protéines : transcription et traduction du message génétique.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-3.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-3.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-3.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-3.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-3.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-3.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -164,9 +164,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">La méiose et la fécondation : mécanismes de la reproduction sexuée chez les êtres vivants.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-4.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-4.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-4.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-4.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-4.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-4.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -180,9 +180,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Les sources de diversité génétique : brassage interchromosomique et intrachromosomique.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-4.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-4.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-4.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-4.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-4.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-4.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -204,9 +204,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Étude des modes de transmission des caractères héréditaires et des arbres généalogiques.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-5.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-5.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-5.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-5.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-5.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-5.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -220,9 +220,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Les principales anomalies chromosomiques humaines : causes et conséquences.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-5.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-5.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-5.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-5.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-5.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-5.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -246,9 +246,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Structure et fonctionnement du tissu nerveux, l'arc réflexe et les différents types de réflexes.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-6.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-6.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-6.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-6.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-6.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-6.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -262,9 +262,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Nature et transmission des messages nerveux : potentiel de repos et potentiel d'action.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-6.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-6.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-6.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-6.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-6.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-6.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -278,9 +278,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Régulation de la glycémie : rôles du pancréas, de l'insuline et du glucagon.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-6.3.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-6.3.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-6.3.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-6.3.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-6.3.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-6.3.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -304,9 +304,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Anatomie et physiologie des appareils génitaux masculin et féminin.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-7.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-7.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-7.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-7.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-7.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-7.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -320,9 +320,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Contrôle hormonal de la fonction de reproduction chez l'homme et la femme.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-7.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-7.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-7.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-7.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-7.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-7.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -336,9 +336,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Les étapes de la fécondation, de la division de l'œuf à la nidation dans l'utérus.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-7.3.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-7.3.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-7.3.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-7.3.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-7.3.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-7.3.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -360,9 +360,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Méthodes de contraception, planification familiale et enjeux sociosanitaires.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-8.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-8.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-8.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-8.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-8.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-8.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -386,9 +386,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Notion d'immunité, distinction entre le soi et le non-soi dans l'organisme.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-9.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-9.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-9.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-9.1.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-9.1.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-9.1.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -402,9 +402,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Réponse immunitaire innée et adaptative, cellules et molécules de l'immunité.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-9.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-9.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-9.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-9.2.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-9.2.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-9.2.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -418,9 +418,9 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
         <p style="font-size: 0.85em; color: #555; margin: 5px 0;">Cas du VIH/SIDA : mode de transmission, effet sur le système immunitaire, prévention.</p>
       </div>
       <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/chapitre-9.3.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📥 Cours</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/exercices-9.3.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📝 Exercices</a>
-        <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/TestQCM-9.3.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.75em;">📊 Tester sa compréhension</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/chapitre-9.3.pdf" style="background: #007BFF; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">📄 Cours</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/exercices-9.3.pdf" style="background: #28A745; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">✏️ Exercices</a>
+        <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/TestQCM-9.3.pdf" style="background: #FD7E14; color: white; padding: 5px 14px; border-radius: 15px; text-decoration: none; font-size: 0.9em;">🎯 QCM</a>
       </div>
     </div>
   </div>
@@ -437,7 +437,7 @@ Je dispense bénévolement des **cours de Sciences de la Vie et de la Terre (SVT
     <span style="font-size: 2.5em;">📚</span>
     <h4 style="color: #DC3545;">Ressources pour BAC</h4>
     <p style="font-size: 0.85em; color: #555;">Livres, annales et documents divers</p>
-    <a href="https://drive.google.com/drive/folders/1ofsmX244yb3vnCxuufFP0jcPFKRu9su2?usp=sharing" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none; display: inline-block; margin-top: 8px; font-size: 0.8em;">📥 Accéder</a>
+    <a href="https://drive.google.com/drive/folders/1ofsmX244yb3vnCxuufFP0jcPFKRu9su2?usp=sharing" style="background: #DC3545; color: white; padding: 5px 20px; border-radius: 15px; text-decoration: none;">Accéder aux ressources</a>
   </div>
 
 </div>
