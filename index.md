@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/hero-banner-1280.png
+  overlay_image: /assets/images/banner-profil.png
   actions:
     - label: "📊 Explorer mes travaux"
       url: "/projets-academiques/"
