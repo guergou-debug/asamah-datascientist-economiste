@@ -15,7 +15,7 @@ excerpt: " "
 ---
 
 <div style="text-align: center; margin-top: -10px;">
-  <h1 style="font-size: 3em; color: #00008b;">Abdoul-Samah GUERGOU GAGARA </h1>
+  <h1 style="font-size: 3em; color: #00008b;">Abdoul-Samah GUERGOU GAGARA</h1>
   <p style="font-size: 1.5em; color: #00008b;">Élève Ingénieur en fin de formation en Économie Appliquée, Statistique & Big Data (INSEA)</p>
 </div>
 
@@ -26,13 +26,20 @@ excerpt: " "
     <h2 style="color: #00008b; margin: 0; font-size: 1.8em;">👤 À propos de moi</h2>
 
     <p style="font-size: 1.1em; line-height: 1.6; color: #222; text-align: justify;">
-      Élève ingénieur à l'INSEA, je me spécialise dans l'analyse quantitative des enjeux économiques, sociaux et environnementaux du développement. Ma formation associe <strong>économie appliquée</strong>, <strong>statistique</strong>, <strong>économétrie</strong> et <strong>science des données</strong>, avec une attention particulière portée à leur mobilisation pour comprendre les dynamiques économiques et éclairer la prise de décision.
+      Élève ingénieur à l'INSEA, j'applique l'<strong>économie appliquée</strong>, la <strong>statistique</strong>, l'<strong>économétrie</strong> et la <strong>science des données</strong> aux enjeux économiques, sociaux et environnementaux du développement, pour éclairer la prise de décision.
     </p>
 
     <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #007BFF20; margin: 5px 0;">
-      <h3 style="color: #007BFF; margin: 0 0 10px 0;">🏛️ Expérience marquante</h3>
+      <h3 style="color: #007BFF; margin: 0 0 10px 0;">💼 Expérience en cabinet</h3>
       <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 0;">
-        J'ai récemment effectué un stage à la <strong>Direction des Études et des Prévisions Financières (DEPF)</strong> du Ministère de l'Économie et des Finances du Maroc, consacré à la <strong>cartographie de la sévérité de la sécheresse au Maroc</strong> à partir de données satellitaires sur la période <strong>2000-2026</strong>. Cette expérience m'a permis de croiser <strong>statistique, analyse spatiale, télédétection et science des données</strong> autour d'un enjeu majeur pour les économies vulnérables aux changements environnementaux.
+        Depuis août 2025, j'interviens comme <strong>prestataire indépendant</strong> auprès du <a href="https://www.expertise-data-analytics.com/" target="_blank" rel="noopener"><strong>Cabinet d'Expertise en Données Statistiques et Décisionnelles</strong></a> (Casablanca), en <strong>missions ponctuelles</strong> : traitement de données, analyses statistiques et économétriques, tableaux de bord et rapports, appui aux études, sondages et formations (R, SPSS, Python, Power BI). Au contact direct de clients académiques, institutionnels et d'entreprises, j'ai appris à cerner leur besoin et à restituer les résultats simplement. Ce cadre souple, mené en parallèle de ma formation, m'apporte plus d'un an de pratique du conseil en conditions réelles.
+      </p>
+    </div>
+
+    <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #007BFF20; margin: 5px 0;">
+      <h3 style="color: #007BFF; margin: 0 0 10px 0;">🏛️ Ministère de l'Économie et des Finances</h3>
+      <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 0;">
+        Stage (juin–août 2026) à la <strong>Direction des Études et des Prévisions Financières (DEPF)</strong> : <strong>cartographie de la sévérité de la sécheresse au Maroc (2000-2026)</strong> à partir de données satellitaires, et modèle de <strong>nowcasting</strong> identifiant 6 régions à risque extrême en 2026, au croisement de la statistique, de l'analyse spatiale et de la télédétection.
       </p>
     </div>
 
