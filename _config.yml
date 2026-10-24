@@ -126,3 +126,7 @@ plugins:
 # Pagination
 paginate: 10
 paginate_path: /page:num/
+
+# Scripts
+head_scripts:
+  - /assets/js/goatcounter.js
