@@ -105,42 +105,42 @@ author_profile: true
     <h4 style="margin: 0; color: #007BFF;">🌍 ARC Summer School 2026</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Agriculture & Agro-Innovation</strong></p>
     <p style="font-size: 0.8em; color: #555;">Africa Research Center — Août 2026</p>
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/ARC-Agriculture.png" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+    <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/ARC-Agriculture.png" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
   <div style="background: #f0faf4; padding: 18px; border-radius: 10px; border-left: 4px solid #28A745;">
     <h4 style="margin: 0; color: #28A745;">🌞 ARC Summer School 2026</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Énergies Renouvelables</strong></p>
     <p style="font-size: 0.8em; color: #555;">Africa Research Center — Août 2026</p>
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/ARC-Energie.png" target="_blank" style="color: #28A745; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+    <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/ARC-Energie.png" target="_blank" style="color: #28A745; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
   <div style="background: #fdf4f0; padding: 18px; border-radius: 10px; border-left: 4px solid #FD7E14;">
     <h4 style="margin: 0; color: #FD7E14;">💼 Deloitte Data Analytics</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Data Analytics Job Simulation</strong></p>
     <p style="font-size: 0.8em; color: #555;">Deloitte — Juin 2025</p>
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/Deloitte.pdf" target="_blank" style="color: #FD7E14; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+    <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/Deloitte.pdf" target="_blank" style="color: #FD7E14; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
   <div style="background: #fdf0f0; padding: 18px; border-radius: 10px; border-left: 4px solid #DC3545;">
     <h4 style="margin: 0; color: #DC3545;">📊 Tata Data Analytics</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Data Visualisation</strong></p>
     <p style="font-size: 0.8em; color: #555;">Tata Group — Juin 2025</p>
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/TATA.pdf" target="_blank" style="color: #DC3545; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+    <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/TATA.pdf" target="_blank" style="color: #DC3545; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
   <div style="background: #f4f0f8; padding: 18px; border-radius: 10px; border-left: 4px solid #6F42C1;">
     <h4 style="margin: 0; color: #6F42C1;">📈 Programmation R</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Analyse de données avec R</strong></p>
     <p style="font-size: 0.8em; color: #555;">Google — Coursera — Décembre 2024</p>
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/Coursera-R.pdf" target="_blank" style="color: #6F42C1; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+    <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/Coursera-R.pdf" target="_blank" style="color: #6F42C1; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
   <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 4px solid #17A2B8;">
     <h4 style="margin: 0; color: #17A2B8;">🕸️ Web Scraping</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Web Scraping in Python</strong></p>
     <p style="font-size: 0.8em; color: #555;">DataCamp — Juillet 2026</p>
-    <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/Web_Scrapping.pdf" target="_blank" style="color: #17A2B8; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
+    <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/Web_Scrapping.pdf" target="_blank" style="color: #17A2B8; text-decoration: none; font-size: 0.8em;">📄 Voir le certificat</a>
   </div>
 
 </div>
