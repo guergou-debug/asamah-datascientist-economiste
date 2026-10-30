@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+collections:
+  # PROJETS ACADÉMIQUES
+  - name: "projets"
+    label: "Projets Académiques"
+    folder: "_pages"
+    create: false
+    slug: "{{slug}}"
+    filter: { field: "permalink", value: "/projets-academiques/" }
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  # EXPÉRIENCES
+  - name: "experiences"
+    label: "Expériences"
+    folder: "_pages"
+    create: false
+    slug: "{{slug}}"
+    filter: { field: "permalink", value: "/experiences/" }
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  # DATA FOR NIGER
+  - name: "data_niger"
+    label: "Data for Niger"
+    folder: "_pages"
+    create: false
+    slug: "{{slug}}"
+    filter: { field: "permalink", value: "/data-for-niger/" }
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  # BÉNÉVOLAT
+  - name: "benevolat"
+    label: "Bénévolat SVT"
+    folder: "_pages"
+    create: false
+    slug: "{{slug}}"
+    filter: { field: "permalink", value: "/benevolat/" }
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
