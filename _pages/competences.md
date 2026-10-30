@@ -155,13 +155,13 @@ author_profile: true
     <div style="background: white; padding: 12px; border-radius: 8px; border: 1px solid #ddd;">
       <h5 style="margin: 0; color: #333;">📊 Data Analytics Essentials</h5>
       <p style="font-size: 0.75em; color: #666; margin: 2px 0;">Cisco Networking Academy</p>
-      <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/Data-Analytics-Essentials.png" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
+      <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/Data-Analytics-Essentials.png" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
     </div>
 
     <div style="background: white; padding: 12px; border-radius: 8px; border: 1px solid #ddd;">
       <h5 style="margin: 0; color: #333;">📝 Programme du Jeune Entrepreneur</h5>
       <p style="font-size: 0.75em; color: #666; margin: 2px 0;">Cursa — Osez Innover (Nov. 2024)</p>
-      <a href="https://guergou-debug.github.io/Guergou-Economiste-Chercheur/assets/images/documents/certificats/Entrepreneuriat.jpg" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
+      <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/certificats/Entrepreneuriat.jpg" target="_blank" style="font-size: 0.75em; color: #007BFF;">Voir</a>
     </div>
 
   </div>
