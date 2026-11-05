@@ -9,6 +9,8 @@ header:
   actions:
     - label: "📊 Explorer mes travaux"
       url: "/projets-academiques/"
+    - label: "📄 Voir mon CV"
+      url: "/assets/documents/CV_Abdoul_Samah.pdf"
     - label: "📬 Me contacter"
       url: "/contact/"
 excerpt: " "
@@ -19,9 +21,7 @@ excerpt: " "
   <p style="font-size: 1.5em; color: #00008b;">Élève Ingénieur en fin de formation en Économie Appliquée, Statistique & Big Data (INSEA)</p>
 </div>
 
-<!-- Section À propos mise en avant -->
 <div style="background: linear-gradient(135deg, #f0f8ff 0%, #e6f2ff 100%); padding: 35px; border-radius: 15px; margin: 30px 0; border-left: 6px solid #007BFF; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
-
   <div style="display: flex; flex-direction: column; gap: 15px;">
     <h2 style="color: #00008b; margin: 0; font-size: 1.8em;">👤 À propos de moi</h2>
 
@@ -43,57 +43,15 @@ excerpt: " "
       </p>
     </div>
 
-   <!-- <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #28A74520; margin: 5px 0;">
-      <h3 style="color: #28A745; margin: 0 0 10px 0;">🏅 Certifications</h3>
-      <p style="font-size: 1.05em; line-height: 1.8; color: #222; text-align: justify; margin: 0;">
-        Je suis certifié par l'<strong>African Research Center (ARC)</strong> à l'issue d'une école d'été consacrée aux <strong>énergies renouvelables et à l'agro-innovation</strong>, ainsi que par <strong>Deloitte en Data Analytics</strong>. Je poursuis également une spécialisation en <strong>Machine Learning</strong> afin de renforcer mes capacités en modélisation prédictive et en analyse avancée des données.
+    <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #28A74520; margin: 5px 0;">
+      <h3 style="color: #28A745; margin: 0 0 10px 0;">🎯 Mes ambitions</h3>
+      <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 0;">
+        Je souhaite contribuer à une recherche appliquée capable de transformer les données en <strong>évidence empirique utile à la décision</strong>, notamment sur les enjeux de développement, de transformation économique, de résilience climatique et d'efficacité des politiques publiques en Afrique.
       </p>
-    </div> -->
-
-<!--    <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 5px 0 0 0;">
-      À terme, je souhaite contribuer à une recherche appliquée capable de transformer les données en <strong>évidence empirique utile à la décision</strong>, notamment sur les enjeux de développement, de transformation économique, de résilience climatique et d'efficacité des politiques publiques en Afrique.
-    </p>
-
-    <div style="text-align: right; font-style: italic; color: #00008b; margin-top: 5px; font-size: 1.1em;">
-      “Transformer les données en évidence pour mieux comprendre, anticiper et décider.”
-    </div>
-
-  </div> -->
-
-</div>
-
-<!-- Bloc 2 : Intérêts de Recherche -->
-<div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; margin: 30px 0;">
-  <h2 style="color: #00008b; text-align: center; font-size: 1.8em;">🎯 Intérêts de Recherche</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin-top: 20px;">
-    <div style="background: #fdf0f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #DC3545;">
-      <strong>🤖 Machine Learning & modélisation prédictive</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Prévision, classification et détection de phénomènes économiques, sociaux et environnementaux</p>
-    </div>
-    <div style="background: #f4f0f8; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #6F42C1;">
-      <strong>📊 Économétrie, statistique & Big Data</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Modélisation économique, séries temporelles, analyse multivariée et exploitation de données massives</p>
-    </div>
-    <div style="background: #f0f8ff; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #007BFF;">
-      <strong>🌍 Économie du développement & transformation structurelle</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Pauvreté, inégalités, capital humain, emploi et dynamiques de développement en Afrique</p>
-    </div>
-    <div style="background: #f0faf4; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #28A745;">
-      <strong>🌾 Économie agricole, climat & ressources naturelles</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Sécheresse, vulnérabilité climatique, stress hydrique, agriculture et résilience des territoires</p>
-    </div>
-    <div style="background: #fdf4f0; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #FD7E14;">
-      <strong>📈 Politiques publiques & évaluation d'impact</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Évaluation quantitative, méthodes causales et analyse empirique des politiques de développement</p>
-    </div>
-    <div style="background: #f0faf4; padding: 15px 20px; border-radius: 10px; border-left: 4px solid #20C997;">
-      <strong>🛰️ Télédétection, SIG & analyse spatiale</strong>
-      <p style="font-size: 0.9em; color: #555; margin: 5px 0 0 0;">Observation des territoires, dynamiques environnementales et analyse spatiale au service du développement</p>
     </div>
   </div>
 </div>
 
-<!-- Bloc 3 : Compétences Techniques -->
 <div style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 30px; margin: 30px 0;">
   <h2 style="color: #00008b; text-align: center; font-size: 1.8em;">🛠️ Compétences Techniques</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 20px;">
@@ -119,8 +77,7 @@ excerpt: " "
   </div>
 </div>
 
-<!-- Pied de page -->
-<div style="text-align: center; margin-top: 40px; border-top: 1px solid #444; padding-top: 30px;">
+<div style="text-align: center; margin-top: 40px; padding-top: 30px;">
   <p style="color: #888;">
     <a href="mailto:asguergougagara@insea.ac.ma" style="color: #00BFFF;">asguergougagara@insea.ac.ma</a>
   </p>
