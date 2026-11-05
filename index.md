@@ -43,12 +43,6 @@ excerpt: " "
       </p>
     </div>
 
-    <div style="background: #ffffff; padding: 20px; border-radius: 10px; border: 1px solid #28A74520; margin: 5px 0;">
-      <h3 style="color: #28A745; margin: 0 0 10px 0;">🎯 Mes ambitions</h3>
-      <p style="font-size: 1.05em; line-height: 1.6; color: #222; text-align: justify; margin: 0;">
-        Je souhaite contribuer à une recherche appliquée capable de transformer les données en <strong>évidence empirique utile à la décision</strong>, notamment sur les enjeux de développement, de transformation économique, de résilience climatique et d'efficacité des politiques publiques en Afrique.
-      </p>
-    </div>
   </div>
 </div>
 
@@ -67,10 +61,13 @@ excerpt: " "
     <span style="background: #007BFF; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">SPSS</span>
     <span style="background: #20C997; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">STATA</span>
     <span style="background: #DC3545; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">LaTeX/Beamer</span>
-    <span style="background: #20C997; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">SIG</span>
+    <span style="background: #20C997; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">SIG(QGIS, Goodle Earth Engine)</span>
     <span style="background: #DC3545; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Web Scraping</span>
     <span style="background: #6F42C1; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Data Mining</span>
     <span style="background: #17A2B8; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Text Mining</span>
+    <span style="background: #28A745; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Apache Hop</span>
+    <span style="background: #28A745; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">GAMS</span>
+    <span style="background: #28A745; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Tableau</span>
   </div>
   <div style="text-align: center; margin-top: 25px;">
     <a href="{{ site.baseurl }}/formation/" style="background: #007BFF; color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-size: 1em; display: inline-block;">📚 Découvrir ma formation →</a>
