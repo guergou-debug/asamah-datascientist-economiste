@@ -89,36 +89,6 @@ author_profile: true
 
 </div>
 
----
-
-## 🏛️ Stage d'Analyse Statistique
-
-**Direction Régionale de l'Institut National de la Statistique (DR-INS)** | Agadez, Niger
-
-*Juillet 2025 – Août 2025*
-
-<div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #f0ece8; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
-
-  <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-    <span style="background: #6F42C1; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Stage</span>
-    <span style="color: #888; font-size: 0.85em;">2025</span>
-  </div>
-
-  <h3 style="color: #6F42C1; margin: 0 0 8px 0;">Production statistique et cartographie censitaire</h3>
-
-  <ul style="margin: 0 0 15px 0; padding-left: 20px; color: #444; font-size: 0.9em; line-height: 1.7;">
-    <li>Suivi des prix alimentaires et de l'IHPC (Indice Harmonisé des Prix à la Consommation).</li>
-    <li>Appui aux opérations de cartographie censitaire du RGPH 5 (5e Recensement Général de la Population et de l'Habitat).</li>
-    <li>Contribution à l'annuaire statistique régional.</li>
-  </ul>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: #2C3E50; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">STATA</span>
-    <span style="background: #16213E; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">SPSS</span>
-    <span style="background: #333; padding: 4px 12px; border-radius: 15px; color: white; font-size: 0.75em;">Excel</span>
-  </div>
-
-</div>
 
 ---
 
