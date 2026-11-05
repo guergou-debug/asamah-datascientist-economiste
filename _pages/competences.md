@@ -7,15 +7,15 @@ author_profile: true
 
 ## 🛠️ Compétences Techniques & Scientifiques
 
-### Langages de programmation & Data Science
+### Langages & Programmation
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <span style="background: #306998; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">Python</span>
   <span style="background: #276DC3; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">R</span>
-  <span style="background: #4479A1; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">SQL</span>
+  <span style="background: #4479A1; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">SQL / MySQL</span>
   <span style="background: #217346; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">Excel VBA</span>
-  <span style="background: #F2C811; padding: 8px 20px; border-radius: 20px; color: #333; font-weight: bold;">Power BI</span>
-  <span style="background: #E97627; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">Tableau</span>
+  <span style="background: #6F42C1; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">Apache Hop (ETL)</span>
+  <span style="background: #333; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">Git & GitHub</span>
 </div>
 
 ### Data Science & Machine Learning
@@ -24,30 +24,40 @@ author_profile: true
   <span style="background: #FF6B6B; padding: 8px 20px; border-radius: 20px; color: white;">Régression (Linéaire/Logistique)</span>
   <span style="background: #4ECDC4; padding: 8px 20px; border-radius: 20px; color: white;">Séries Temporelles</span>
   <span style="background: #45B7D1; padding: 8px 20px; border-radius: 20px; color: white;">Machine Learning</span>
-  <span style="background: #96CEB4; padding: 8px 20px; border-radius: 20px; color: #333;">Data Mining</span>
-  <span style="background: #DDA0DD; padding: 8px 20px; border-radius: 20px; color: #333;">Analyse de Données Massives</span>
+  <span style="background: #96CEB4; padding: 8px 20px; border-radius: 20px; color: #333;">Random Forest</span>
+  <span style="background: #DDA0DD; padding: 8px 20px; border-radius: 20px; color: #333;">Data Mining & Text Mining</span>
+  <span style="background: #F7DF1E; padding: 8px 20px; border-radius: 20px; color: #333;">Web Scraping</span>
 </div>
 
 ### Économétrie & Statistique
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <span style="background: #2C3E50; padding: 8px 20px; border-radius: 20px; color: white;">Économétrie Avancée</span>
-  <span style="background: #E74C3C; padding: 8px 20px; border-radius: 20px; color: white;">Statistique Bayésienne</span>
-  <span style="background: #3498DB; padding: 8px 20px; border-radius: 20px; color: white;">Séries Chronologiques</span>
+  <span style="background: #E74C3C; padding: 8px 20px; border-radius: 20px; color: white;">VECM & Cointégration</span>
+  <span style="background: #3498DB; padding: 8px 20px; border-radius: 20px; color: white;">MEGC (GAMS)</span>
   <span style="background: #2ECC71; padding: 8px 20px; border-radius: 20px; color: white;">Modèles Linéaires Généralisés</span>
-  <span style="background: #F39C12; padding: 8px 20px; border-radius: 20px; color: white;">Inférence Statistique</span>
+  <span style="background: #F39C12; padding: 8px 20px; border-radius: 20px; color: white;">Statistique Bayésienne</span>
+  <span style="background: #8E44AD; padding: 8px 20px; border-radius: 20px; color: white;">ACP & Analyse Multivariée</span>
 </div>
 
-### Outils & Environnements
+### Données Spatiales & Télédétection
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <span style="background: #20C997; padding: 8px 20px; border-radius: 20px; color: white;">Google Earth Engine</span>
+  <span style="background: #17A2B8; padding: 8px 20px; border-radius: 20px; color: white;">SIG & Analyse Spatiale</span>
+  <span style="background: #0F3460; padding: 8px 20px; border-radius: 20px; color: white;">Données Satellitaires (MODIS, CHIRPS)</span>
+  <span style="background: #27AE60; padding: 8px 20px; border-radius: 20px; color: white;">Indices de Sécheresse (NDDI, CDAI)</span>
+</div>
+
+### Visualisation & Outils
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
-  <span style="background: #333; padding: 8px 20px; border-radius: 20px; color: white;">Git & GitHub</span>
+  <span style="background: #F2C811; padding: 8px 20px; border-radius: 20px; color: #333; font-weight: bold;">Power BI</span>
+  <span style="background: #E97627; padding: 8px 20px; border-radius: 20px; color: white; font-weight: bold;">Tableau</span>
   <span style="background: #1A1A2E; padding: 8px 20px; border-radius: 20px; color: white;">STATA</span>
   <span style="background: #16213E; padding: 8px 20px; border-radius: 20px; color: white;">SPSS</span>
-  <span style="background: #0F3460; padding: 8px 20px; border-radius: 20px; color: white;">LaTeX</span>
+  <span style="background: #0F3460; padding: 8px 20px; border-radius: 20px; color: white;">LaTeX / Beamer</span>
 </div>
-
----
 
 ## 💡 Compétences Humaines
 
@@ -85,22 +95,17 @@ author_profile: true
 
 </div>
 
----
-
 ## 🗣️ Langues
 
 | Langue | Niveau |
 |--------|--------|
-| 🇫🇷 Français | Courant |
-| 🇬🇧 Anglais | Académique (Lecture, écriture, communication) |
-
----
+| 🇫🇷 Français | Courant – langue de formation et de travail |
+| 🇬🇧 Anglais | Professionnel – lecture, écriture, communication |
 
 ## 📜 Certifications
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 20px 0;">
 
-  <!-- Certifications majeures -->
   <div style="background: #f0f8ff; padding: 18px; border-radius: 10px; border-left: 4px solid #007BFF;">
     <h4 style="margin: 0; color: #007BFF;">🌍 ARC Summer School 2026</h4>
     <p style="font-size: 0.85em; color: #333; margin: 5px 0;"><strong>Agriculture & Agro-Innovation</strong></p>
@@ -167,8 +172,6 @@ author_profile: true
   </div>
 
 </details>
-
----
 
 ## 🏆 Distinctions
 
