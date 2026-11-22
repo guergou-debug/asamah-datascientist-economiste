@@ -124,11 +124,3 @@ author_profile: true
   </div>
 
 </div>
-
----
-
-## 📂 Téléchargements
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 15px 0;">
-  <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/documents/CV_Abdoul_Samah.pdf" style="background: #333; color: white; padding: 10px 25px; border-radius: 20px; text-decoration: none; display: inline-block;">📄 Télécharger mon CV complet</a>
-</div>
