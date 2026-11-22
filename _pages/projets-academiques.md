@@ -86,8 +86,8 @@ Voici une sélection de mes projets en économétrie, data science, analyse spat
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="#" style="background: #6F42C1; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="#" target="_blank" style="background: #f4f0f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/MEGC_ZLECAf/Rapport du Projet.pdf" style="background: #6F42C1; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/MEGC_ZLECAf" target="_blank" style="background: #f4f0f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 </div>
 
@@ -107,8 +107,8 @@ Voici une sélection de mes projets en économétrie, data science, analyse spat
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="#" style="background: #FD7E14; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="#" target="_blank" style="background: #fdf4f0; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/NTL%20et%20PIB%20Niger/article-un-niger-ntl-pib/main.pdf" style="background: #FD7E14; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/NTL%20et%20PIB%20Niger/article-un-niger-ntl-pib" target="_blank" style="background: #fdf4f0; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 </div>
 
@@ -128,8 +128,8 @@ Voici une sélection de mes projets en économétrie, data science, analyse spat
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="#" style="background: #E74C3C; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="#" target="_blank" style="background: #fdf0f0; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/enqueteur_niger_mining/README.md" style="background: #E74C3C; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/enqueteur_niger_mining" target="_blank" style="background: #fdf0f0; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 </div>
 
