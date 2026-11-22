@@ -108,15 +108,6 @@ author_profile: true
 
 ## 📄 Téléchargements
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px; margin: 20px 0;">
-
-  <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/documents/CV_Abdoul_Samah.pdf" style="text-decoration: none;">
-    <div style="background: #f8f9fa; padding: 15px 20px; border-radius: 10px; text-align: center; border: 1px solid #dee2e6;">
-      <span style="font-size: 1.5em;">📄</span>
-      <p style="color: #333; font-size: 0.9em; margin: 5px 0 0 0; font-weight: 500;">CV - GUERGOU GAGARA Abdoul-Samah</p>
-    </div>
-  </a>
-
   <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/Rapport_Stage_DEPF_VFinale.pdf" style="text-decoration: none;">
     <div style="background: #f8f9fa; padding: 15px 20px; border-radius: 10px; text-align: center; border: 1px solid #dee2e6;">
       <span style="font-size: 1.5em;">📄</span>
