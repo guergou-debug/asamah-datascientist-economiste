@@ -107,7 +107,7 @@ author_profile: true
 </div>
 
 ## 📄 Téléchargements
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px; margin: 20px 0;">
   <a href="https://guergou-debug.github.io/asamah-datascientist-economiste/assets/images/documents/Rapport_Stage_DEPF_VFinale.pdf" style="text-decoration: none;">
     <div style="background: #f8f9fa; padding: 15px 20px; border-radius: 10px; text-align: center; border: 1px solid #dee2e6;">
       <span style="font-size: 1.5em;">📄</span>
