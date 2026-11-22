@@ -9,8 +9,6 @@ header:
   actions:
     - label: "📊 Explorer mes travaux"
       url: "/projets-academiques/"
-    - label: "📄 Voir mon CV"
-      url: "/assets/documents/CV_Abdoul_Samah.pdf"
     - label: "📬 Me contacter"
       url: "/contact/"
 excerpt: " "
@@ -57,7 +55,7 @@ excerpt: " "
     <span style="background: #DC3545; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Économétrie</span>
     <span style="background: #007BFF; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Statistiques</span>
     <span style="background: #20C997; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Excel</span>
-    <span style="background: #6F42C1; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">VBA</span>
+    <span style="background: #6F42C1; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">Automatisation VBA</span>
     <span style="background: #007BFF; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">SPSS</span>
     <span style="background: #20C997; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">STATA</span>
     <span style="background: #DC3545; padding: 8px 18px; border-radius: 20px; font-size: 0.9em; color: white;">LaTeX/Beamer</span>
