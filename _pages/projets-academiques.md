@@ -87,8 +87,8 @@ Voici une sélection de mes projets en économétrie, data science, analyse spat
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/guergou-debug/Projets-Academiques-/blob/main/Rapport%20Final/rapport_m_thodologique_et_analytique_march_de_l_emploi_formel_au_niger.pdf" style="background: #6F42C1; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
-    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/Rapport%20Final" target="_blank" style="background: #f4f0f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/niger_jobs_scraper/README.md" style="background: #6F42C1; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/niger_jobs_scraper/Rapport%20Final/rapport_m_thodologique_et_analytique_march_de_l_emploi_formel_au_niger.pdf" target="_blank" style="background: #f4f0f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
   </div>
 </div>
 
