@@ -71,6 +71,27 @@ Voici une sélection de mes projets en économétrie, data science, analyse spat
   </div>
 </div>
 
+## 💼 Le Marché de l'Emploi Formel au Niger
+
+<div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #e8ecf1; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+
+  <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
+    <span style="background: #6F42C1; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Projet</span>
+    <span style="color: #888; font-size: 0.85em;">2026</span>
+  </div>
+
+  <h3 style="color: #6F42C1; margin: 0 0 5px 0;">Demande de travail, qualité de l'emploi et compétences recherchées</h3>
+
+  <p style="color: #444; font-size: 0.95em; line-height: 1.5; margin: 5px 0 15px 0;">
+    Analyse de 70 offres d'emploi et de consultance publiées en ligne au Niger (sur un corpus de 145 annonces uniques) entre août et novembre 2026. Identification des profils recherchés, des conditions d'emploi et des compétences clés (rigueur, communication, finance) pour guider les formations et l'accompagnement vers l'emploi.
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/blob/main/Rapport%20Final/rapport_m_thodologique_et_analytique_march_de_l_emploi_formel_au_niger.pdf" style="background: #6F42C1; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📥 Télécharger le rapport</a>
+    <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/Rapport%20Final" target="_blank" style="background: #f4f0f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le projet sur GitHub</a>
+  </div>
+</div>
+
 ## 📱 Analyse des sentiments médiatiques au Niger (Text Mining)
 
 <div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #e8ecf1; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
