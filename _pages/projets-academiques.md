@@ -7,6 +7,45 @@ author_profile: true
 
 Voici une sélection de mes projets en économétrie, data science, analyse spatiale et traitement du langage.
 
+
+## 🏨 MOROCCO-STAY | Analyse du marché touristique marocain
+
+<div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #e8ecf1; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+
+  <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
+    <span style="background: #007BFF; color: white; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Projet</span>
+    <span style="color: #888; font-size: 0.85em;">2026</span>
+    <span style="background: #e8f5ef; color: #16865a; padding: 2px 12px; border-radius: 12px; font-size: 0.7em; font-weight: bold;">Application interactive</span>
+  </div>
+
+  <h3 style="color: #007BFF; margin: 0 0 8px 0;">Étude de marché, analyse concurrentielle et intelligence touristique</h3>
+
+  <p style="color: #444; font-size: 0.95em; line-height: 1.6; margin: 5px 0 15px 0;">
+    Conception d'un dispositif d'analyse du marché de l'hébergement touristique au Maroc, combinant données statistiques officielles et données géospatiales issues d'OpenStreetMap. Analyse de la demande, de l'offre, de la concurrence territoriale et des dynamiques du marché, avec une exploration interactive des indicateurs et une cartographie de l'écosystème touristique.
+  </p>
+
+  <p style="color: #555; font-size: 0.88em; line-height: 1.5; margin: 0 0 15px 0;">
+    <strong>Approche :</strong> Analyse exploratoire et comparative, indicateurs de concentration du marché (HHI), analyse territoriale, visualisation de données et développement d'une application décisionnelle sous R Shiny.
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px;">
+    <span style="background: #f0f4f8; color: #40566d; padding: 5px 10px; border-radius: 15px; font-size: 0.78em;">R / Shiny</span>
+    <span style="background: #f0f4f8; color: #40566d; padding: 5px 10px; border-radius: 15px; font-size: 0.78em;">Analyse de marché</span>
+    <span style="background: #f0f4f8; color: #40566d; padding: 5px 10px; border-radius: 15px; font-size: 0.78em;">Économétrie descriptive</span>
+    <span style="background: #f0f4f8; color: #40566d; padding: 5px 10px; border-radius: 15px; font-size: 0.78em;">Analyse géospatiale</span>
+    <span style="background: #f0f4f8; color: #40566d; padding: 5px 10px; border-radius: 15px; font-size: 0.78em;">Data Visualization</span>
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://inuz7m-guergou0gagara-abdoul0samah.shinyapps.io/morocco-stay/" target="_blank" style="background: #007BFF; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📊 Explorer le dashboard</a>
+
+    <a href="LIEN_GITHUB_A_AJOUTER" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le code sur GitHub</a>
+  </div>
+
+</div>
+
+
+
 ## 📊 Analyse des déterminants des IDE au Maroc
 
 <div style="background: #ffffff; padding: 25px; border-radius: 12px; margin: 15px 0; border: 1px solid #e8ecf1; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
