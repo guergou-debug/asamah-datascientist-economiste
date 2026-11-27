@@ -39,7 +39,7 @@ Voici une sélection de mes projets en économétrie, data science, analyse spat
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://inuz7m-guergou0gagara-abdoul0samah.shinyapps.io/morocco-stay/" target="_blank" style="background: #007BFF; color: white; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">📊 Explorer le dashboard</a>
 
-    <a href="LIEN_GITHUB_A_AJOUTER" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le code sur GitHub</a>
+  <a href="https://github.com/guergou-debug/Projets-Academiques-/tree/main/Tourisme%20au%20Maroc" target="_blank" style="background: #f0f4f8; color: #333; padding: 8px 20px; border-radius: 20px; text-decoration: none; display: inline-block; font-size: 0.9em;">🐙 Voir le code sur GitHub</a>
   </div>
 
 </div>
